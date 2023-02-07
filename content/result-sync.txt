@@ -1,0 +1,1 @@
+this file was created using writeFileSync methodthis file was created using writeFileSync methodthis file was created using writeFileSync method this file was created using writeFileSync method this file was created using writeFileSync method this file was created using writeFileSync method 
